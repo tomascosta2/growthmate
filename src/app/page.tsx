@@ -37,7 +37,7 @@ export default function Home() {
               </div>
             </div>
             <p className="mt-4 text-center max-w-[700px] mx-auto">
-              Unite al club #1 en sistemas de ventas para negocios de mates: programamos, automatizamos y aplicamos estrategias internacionales para que tu marca crezca sin gastos innecesarios.
+              <strong>Unite al club</strong> #1 en sistemas de ventas para negocios de mates: programamos, automatizamos y aplicamos estrategias internacionales para que tu marca crezca sin gastos innecesarios.
             </p>
             <div className="bg-[#005e05] size-[350px] md:size-[700px] top-0 md:-top-[100px] blur-[100px] opacity-[70%] rounded-full absolute left-[calc(50%-175px)] md:left-[calc(50%-350px)] -z-50"></div>
           </section>
